@@ -1,0 +1,9 @@
+id,titulo,tipo,genero,tema,estilo,contexto,tags,descricao,explicacao
+6,Blade Runner 2049,filme,Ficção Científica,Identidade,Noir,Futuro Distópico,androids;replicants;neo-noir,Filme sobre o que significa ser humano.,Similaridade geral de conteúdo
+7,Duna,filme,Ficção Científica,Política e Religião,Épico,Planeta Desértico,spice;atreides;imperium,Filme baseado na obra de Frank Herbert.,Similaridade geral de conteúdo
+8,Matrix,filme,Ficção Científica,Realidade Virtual,Cyberpunk,Futuro Distópico,matrix;ai;cyberpunk,Clássico cyberpunk sobre realidade simulada.,Similaridade geral de conteúdo
+9,O Senhor dos Anéis: A Sociedade do Anel,filme,Fantasia,Jornada Épica,Épico,Terra Média,tolkien;fantasy;ring,Primeiro filme da trilogia de Tolkien.,Similaridade geral de conteúdo
+10,Mad Max: Estrada da Fúria,filme,Ação,Sobrevivência,Pós-apocalíptico,Deserto,cars;survival;apocalypse,Filme de ação em um futuro pós-apocalíptico.,Similaridade geral de conteúdo
+2,Space Marine,jogo,Ação,Combate Tático,Violento,Distopia,TPS;warhammer;imperium,TPS com combate intenso no 40K,Similaridade geral de conteúdo
+12,Neuromancer,livro,Ficção Científica,Inteligência Artificial,Cyberpunk,Futuro Distópico,ai;cyberspace;hacker,Livro seminal do gênero cyberpunk.,Parecido com: Matrix
+20,The Witcher,série,Fantasia,Caça a Monstros,Épico,Continente,witcher;netflix;geralt,Série baseada nos livros e jogos da franquia Witcher.,Parecido com: The Witcher 3: Wild Hunt
