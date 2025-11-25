@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Dados gerados durante o uso
+data/historico.csv
+data/feedback.csv
+
+# temporários
+*.log
+*.tmp
